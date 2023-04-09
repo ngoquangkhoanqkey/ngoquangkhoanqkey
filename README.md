@@ -1,6 +1,6 @@
 <!-- ngoquangkhoadev -->
 <a href="#" target="_blank">
-  <img src="svg/ngoquangkhoanqkey.sgv" width="1200" alt="ngoquangkhoanqkey" />
+  <img src="svg/ngoquangkhoanqkey.svg" width="1200" alt="ngoquangkhoanqkey" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
